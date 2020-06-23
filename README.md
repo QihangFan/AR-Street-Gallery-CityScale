@@ -4,4 +4,5 @@ Cyber Graffiti is an AR application aiming at encouraging citizens to explore th
 
 ![](ReadmeMaterials/CyberGraffitiOverall.gif)
 
-More introductions can be checked out [here](https://fqhang.cargo.site/CyberGraffiti).
+The Cyber Graffiti Application can be checked out [here](https://github.com/QihangFan/Cyber-Graffiti-Application).<br />
+More introductions about this project can be checked out [here](https://fqhang.cargo.site/CyberGraffiti).
