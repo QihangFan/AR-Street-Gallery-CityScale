@@ -5,4 +5,4 @@ Street Gallery is a real-place virtual gallery application for street artiest to
 ![](ReadmeMaterials/CyberGraffitiOverall.gif)
 
 Street Gallery Application can be checked out [here](https://github.com/QihangFan/Cyber-Graffiti-Application).<br />
-More introductions about this project can be checked out [here](https://fqhang.cargo.site/CyberGraffiti).
+More introductions about this project can be checked out [here](https://fqhang.xyz/application/street-gallery).
